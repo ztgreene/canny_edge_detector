@@ -1,4 +1,4 @@
-# Python program - Canny Edge Detection -  Lecture 20
+#Canny Edge Detection
   
 # importing OpenCV(cv2) module
 import cv2
